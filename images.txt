@@ -1,1 +1,1 @@
-logviewer
+seafileltd/seafile-mc:latest
